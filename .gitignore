@@ -1,0 +1,399 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# ============================================
+# API Keys and Sensitive Configuration Files
+# ============================================
+# API Keys file (contains all API keys and secrets)
+api_keys.env
+*.env
+.env
+.env.local
+.env.*.local
+
+# Firebase Configuration (contains API keys)
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+lib/firebase_options.dart
+
+# Android Keystore and Keys
+android/key.properties
+android/local.properties
+*.jks
+*.keystore
+*.p12
+*.p8
+*.pem
+
+# iOS Keys and Certificates (already listed above in Firebase section)
+# ios/Runner/GoogleService-Info.plist
+*.mobileprovision
+*.cer
+*.certSigningRequest
+
+# ============================================
+# Build and Generated Files
+# ============================================
+# Flutter build outputs
+build/
+*.apk
+*.aab
+*.ipa
+*.app
+*.dSYM.zip
+*.dSYM
+
+# Generated files
+*.g.dart
+*.freezed.dart
+*.mocks.dart
+
+# ============================================
+# IDE and Editor Files
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ============================================
+# OS Files
+# ============================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ============================================
+# Logs and Temporary Files
+# ============================================
+*.log
+*.tmp
+*.temp
+.cache/
+temp/
+tmp/
+# Note: pubspec.lock should be committed for Flutter projects
+# *.lock
+*.pid
+*.seed
+*.pid.lock
+
+# ============================================
+# Android Build Files
+# ============================================
+# Android build directories
+android/.gradle/
+android/.idea/
+android/app/build/
+android/build/
+android/.cxx/
+android/local.properties
+android/gradle.properties.bak
+android/app/release/
+android/app/debug/
+android/app/profile/
+android/.externalNativeBuild/
+android/.idea/
+android/*.iml
+android/app/*.iml
+android/captures/
+android/.DS_Store
+android/app/src/main/assets/flutter_assets/
+
+# Android generated files
+android/app/generated/
+android/app/intermediates/
+android/app/outputs/
+android/app/tmp/
+android/app/.cxx/
+android/app/.externalNativeBuild/
+android/app/.gradle/
+android/app/.idea/
+android/app/.kotlin/
+android/app/.local/
+android/app/.settings/
+android/app/.vscode/
+android/app/build.gradle.kts.bak
+android/app/proguard/
+android/app/src/main/res/values/google-services.xml
+
+# Gradle files
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+.gradletasknamecache
+# Note: gradlew and gradlew.bat are needed - keep them in repo
+# gradlew
+# gradlew.bat
+!gradle/wrapper/gradle-wrapper.jar
+
+# ============================================
+# iOS Build Files
+# ============================================
+# Xcode
+ios/**/*.mode1v3
+ios/**/*.mode2v3
+ios/**/*.moved-aside
+ios/**/*.pbxuser
+ios/**/*.perspectivev3
+ios/**/*sync/
+ios/**/.sconsign.dblite
+ios/**/.tags*
+ios/**/.vagrant/
+ios/**/DerivedData/
+ios/**/Icon?
+ios/**/Pods/
+ios/**/.symlinks/
+ios/**/profile
+ios/**/xcuserdata
+ios/**/.xcode.env.local
+ios/.generated/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/Flutter/app.flx
+ios/Flutter/app.zip
+ios/Flutter/flutter_assets/
+ios/Flutter/flutter_export_environment.sh
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+
+# CocoaPods
+ios/Pods/
+ios/.symlinks/
+# Note: Podfile.lock should be committed for iOS projects
+# ios/Podfile.lock
+
+# ============================================
+# macOS Build Files
+# ============================================
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/Flutter/ephemeral/
+macos/.symlinks/
+macos/Pods/
+
+# ============================================
+# Windows Build Files
+# ============================================
+windows/flutter/ephemeral/
+windows/.vs/
+windows/CMakeFiles/
+windows/CMakeCache.txt
+windows/cmake_install.cmake
+windows/*.vcxproj
+windows/*.vcxproj.filters
+windows/*.vcxproj.user
+windows/*.sln
+windows/*.suo
+windows/*.user
+windows/*.userosscache
+windows/*.sln.docstates
+windows/x64/
+windows/x86/
+windows/Debug/
+windows/Release/
+windows/.vs/
+
+# ============================================
+# Linux Build Files
+# ============================================
+linux/flutter/ephemeral/
+linux/CMakeFiles/
+linux/CMakeCache.txt
+linux/cmake_install.cmake
+linux/Makefile
+linux/build/
+
+# ============================================
+# Web Build Files
+# ============================================
+web/build/
+web/.dart_tool/
+
+# ============================================
+# Flutter/Dart Specific
+# ============================================
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+.flutter-plugins-dependencies.json
+.flutter-plugins.json
+pubspec.lock.bak
+*.dart.js
+*.dart.js.map
+*.info.json
+*.js
+*.js_
+*.js.deps
+*.js.map
+*.js.symbols
+
+# Coverage
+coverage/
+*.lcov
+*.coverage
+*.coverage.*
+.hypothesis/
+.pytest_cache/
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# ============================================
+# Test Files
+# ============================================
+test/.test_coverage.dart
+test_driver/
+integration_test/.dart_tool/
+integration_test/build/
+
+# ============================================
+# Documentation (Auto-generated)
+# ============================================
+doc/api/
+doc/
+docs/_build/
+site/
+
+# ============================================
+# Package Manager Files
+# ============================================
+# Node modules (if using any JS tooling)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Python (if using any Python scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ============================================
+# Backup Files
+# ============================================
+*.bak
+*.backup
+*.old
+*.orig
+*.save
+*~
+.#*
+\#*#
+.*.swp
+.*.swo
+
+# ============================================
+# Firebase Functions
+# ============================================
+functions/node_modules/
+functions/.env
+functions/.env.local
+functions/lib/
+functions/.runtimeconfig.json
+functions/.firebaserc.local
+
+# ============================================
+# Miscellaneous Unnecessary Files
+# ============================================
+# Archive files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Screenshots
+screenshots/
+*.png.bak
+*.jpg.bak
+
+# Profiling data
+*.prof
+*.trace
+
+# FVM (Flutter Version Management)
+.fvm/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
