@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Hero Screenshot -->
-<img src="assets/icon.png" alt="HireIQ Home Screen" style="width: 80px; max-width: 100%; height: auto;" />
+<img src="assets/icon.png" alt="HireIQ Home Screen" style="width: 70px; max-width: 100%; height: auto;" />
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-3.7+-0175C2?logo=dart&logoColor=white)
@@ -17,35 +17,13 @@
 
 </div>
 
----
+## 🚀 Installation
 
-## 📸 Screenshots
+### 📥 Direct Android APK Download
 
-<div align="center">
+You can directly download the latest built Android APK from this repository:
 
-### Main App Flows
-
-<img src="screenshots/1.png" alt="HireIQ - Home Screen" width="250" />
-<img src="screenshots/2.png" alt="HireIQ - Interview Screen" width="250" />
-<img src="screenshots/3.png" alt="HireIQ - Resume Review Screen" width="250" />
-
-<br/>
-
-### Additional Views
-
-<img src="screenshots/4.png" alt="HireIQ - Learning Screen" width="250" />
-<img src="screenshots/5.png" alt="HireIQ - Chat Rooms Screen" width="250" />
-<img src="screenshots/7.png" alt="HireIQ - Profile Screen" width="250" />
-
-<br/>
-
-### Extra Views
-
-<img src="screenshots/8.png" alt="HireIQ - Additional View" width="250" />
-<img src="screenshots/1.2.png" alt="HireIQ - Variant View" width="250" />
-
-</div>
-
+- [Download HireIQ Android APK](https://drive.google.com/file/d/1IQfvZVW4p2EdhFsvDrCp9Uklq_VIi_Fi/view?usp=sharing)
 ---
 
 ## 📱 Overview
@@ -61,6 +39,26 @@ HireIQ is a comprehensive interview preparation platform built with Flutter that
 - 🔐 **Secure Authentication**: Firebase-based authentication with Google Sign-In support
 - 🌙 **Dark Mode**: Beautiful UI with light and dark theme support
 - 📱 **Cross-Platform**: Native Android and iOS applications
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+
+
+<img src="screenshots/1.png" alt="HireIQ - Home Screen" width="150" />
+<img src="screenshots/2.png" alt="HireIQ - Interview Screen" width="150" />
+<img src="screenshots/3.png" alt="HireIQ - Resume Review Screen" width="150" />
+<img src="screenshots/4.png" alt="HireIQ - Learning Screen" width="150" />
+<br/>
+<img src="screenshots/5.png" alt="HireIQ - Chat Rooms Screen" width=150" />
+<img src="screenshots/7.png" alt="HireIQ - Profile Screen" width="150" />
+<img src="screenshots/8.png" alt="HireIQ - Additional View" width="150" />
+<img src="screenshots/1.2.png" alt="HireIQ - Variant View" width="150" />
+
+
+</div>
 
 ---
 
@@ -170,13 +168,6 @@ lib/
 
 ---
 
-## 🚀 Installation
-
-### 📥 Direct Android APK Download
-
-You can directly download the latest built Android APK from this repository:
-
-- [Download HireIQ Android APK](assets/app-armeabi-v7a-release.apk)
 
 ### Prerequisites
 - Flutter SDK (3.0 or higher)
