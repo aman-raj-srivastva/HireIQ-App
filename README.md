@@ -2,6 +2,9 @@
 
 <div align="center">
 
+<!-- Hero Screenshot -->
+<img src="screenshots/1.png" alt="HireIQ Home Screen" width="800" />
+
 ![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-3.7+-0175C2?logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
@@ -192,7 +195,27 @@ lib/
 
 ## 📸 Screenshots
 
-> *Screenshots coming soon*
+<div align="center">
+
+<!-- Main app flows -->
+<img src="screenshots/1.png" alt="HireIQ - Home Screen" width="250" />
+<img src="screenshots/2.png" alt="HireIQ - Interview Screen" width="250" />
+<img src="screenshots/3.png" alt="HireIQ - Resume Review Screen" width="250" />
+
+<br/><br/>
+
+<!-- Additional views -->
+<img src="screenshots/4.png" alt="HireIQ - Learning Screen" width="250" />
+<img src="screenshots/5.png" alt="HireIQ - Chat Rooms Screen" width="250" />
+<img src="screenshots/7.png" alt="HireIQ - Profile Screen" width="250" />
+
+<br/><br/>
+
+<!-- Extra detail / alt layout -->
+<img src="screenshots/8.png" alt="HireIQ - Additional View" width="250" />
+<img src="screenshots/1.2.png" alt="HireIQ - Variant View" width="250" />
+
+</div>
 
 ---
 
