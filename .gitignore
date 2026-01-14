@@ -380,8 +380,8 @@ functions/.firebaserc.local
 *.sqlite
 *.sqlite3
 
-# Screenshots
-screenshots/
+# Screenshots (keeping screenshots/ for README, but ignoring backup files)
+# screenshots/  # Commented out to allow screenshots in README
 *.png.bak
 *.jpg.bak
 
