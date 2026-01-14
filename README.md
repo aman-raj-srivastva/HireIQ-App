@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Hero Screenshot -->
-<img src="(https://hireiq-web.vercel.app/assets/favicon.png)" alt="HireIQ Home Screen" style="width: 70px; max-width: 100%; height: auto;" />
+<img src="https://hireiq-web.vercel.app/assets/favicon.png" alt="HireIQ Home Screen" style="width: 220px; max-width: 100%; height: auto;" />
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-3.7+-0175C2?logo=dart&logoColor=white)
