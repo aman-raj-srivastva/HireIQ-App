@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Hero Screenshot -->
-<img src="screenshots/1.png" alt="HireIQ Home Screen" style="width: 800px; max-width: 100%; height: auto;" />
+<img src="assets/icon.png" alt="HireIQ Home Screen" style="width: 800px; max-width: 100%; height: auto;" />
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-3.7+-0175C2?logo=dart&logoColor=white)
@@ -14,6 +14,35 @@
 **An intelligent mobile application designed to help job seekers prepare for interviews through AI-powered practice sessions, resume reviews, and personalized learning experiences.**
 
 [Features](#-features) • [Tech Stack](#-tech-stack) • [Architecture](#-architecture) • [Installation](#-installation) • [Screenshots](#-screenshots)
+
+</div>
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+
+### Main App Flows
+
+<img src="screenshots/1.png" alt="HireIQ - Home Screen" width="250" />
+<img src="screenshots/2.png" alt="HireIQ - Interview Screen" width="250" />
+<img src="screenshots/3.png" alt="HireIQ - Resume Review Screen" width="250" />
+
+<br/>
+
+### Additional Views
+
+<img src="screenshots/4.png" alt="HireIQ - Learning Screen" width="250" />
+<img src="screenshots/5.png" alt="HireIQ - Chat Rooms Screen" width="250" />
+<img src="screenshots/7.png" alt="HireIQ - Profile Screen" width="250" />
+
+<br/>
+
+### Extra Views
+
+<img src="screenshots/8.png" alt="HireIQ - Additional View" width="250" />
+<img src="screenshots/1.2.png" alt="HireIQ - Variant View" width="250" />
 
 </div>
 
@@ -143,6 +172,12 @@ lib/
 
 ## 🚀 Installation
 
+### 📥 Direct Android APK Download
+
+You can directly download the latest built Android APK from this repository:
+
+- [Download HireIQ Android APK](assets/app-armeabi-v7a-release.apk)
+
 ### Prerequisites
 - Flutter SDK (3.0 or higher)
 - Dart SDK (3.7 or higher)
@@ -190,35 +225,6 @@ lib/
 - Minimum iOS: 12.0
 - Configure signing in Xcode
 - Add `GoogleService-Info.plist` to Runner directory
-
----
-
-## 📸 Screenshots
-
-<div align="center">
-
-### Main App Flows
-
-<img src="screenshots/1.png" alt="HireIQ - Home Screen" width="250" />
-<img src="screenshots/2.png" alt="HireIQ - Interview Screen" width="250" />
-<img src="screenshots/3.png" alt="HireIQ - Resume Review Screen" width="250" />
-
-<br/>
-
-### Additional Views
-
-<img src="screenshots/4.png" alt="HireIQ - Learning Screen" width="250" />
-<img src="screenshots/5.png" alt="HireIQ - Chat Rooms Screen" width="250" />
-<img src="screenshots/7.png" alt="HireIQ - Profile Screen" width="250" />
-
-<br/>
-
-### Extra Views
-
-<img src="screenshots/8.png" alt="HireIQ - Additional View" width="250" />
-<img src="screenshots/1.2.png" alt="HireIQ - Variant View" width="250" />
-
-</div>
 
 ---
 

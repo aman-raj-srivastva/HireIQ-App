@@ -79,6 +79,8 @@ android/local.properties
 # ============================================
 # Flutter build outputs
 build/
+# Allow a specific APK to be committed for direct GitHub download
+!assets/app-armeabi-v7a-release.apk
 *.apk
 *.aab
 *.ipa
